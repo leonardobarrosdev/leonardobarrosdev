@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobarrosdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block; margin-bottom: 1rem"><br>
-  <img align="center" alt="LB-HTML" src="https://skillicons.dev/icons?i=linux,html,css,js,django,react,nodejs,postgres,mysql,docker">
+  <img align="center" alt="LB-HTML" src="https://skillicons.dev/icons?i=linux,html,css,js,django,react,nodejs,postgres,mysql,docker,web3">
 </div>  
  
   ##
